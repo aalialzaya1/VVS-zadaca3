@@ -94,6 +94,7 @@ namespace ClassLibrary1
         public void UpisUDom(Student student, int zeljeniKapacitet, bool fleksibilnost)
         {
             Soba slobodnaSoba = null;
+            
             foreach (Soba s in Sobe)
             {
                 if (s.Kapacitet == zeljeniKapacitet)
@@ -101,6 +102,7 @@ namespace ClassLibrary1
                         if (s2.Stanari.Count < zeljeniKapacitet && s2 == s)
                             slobodnaSoba = s;
             }
+            
             if (slobodnaSoba == null && !fleksibilnost)
                 throw new InvalidOperationException("Nema slobodnih soba za studenta!");
             else if (slobodnaSoba == null)

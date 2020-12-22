@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aya\\Downloads\\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-Grupa1\\Grupa 1\\Studentski Dom\\Studentski Dom\\Studentski Dom.csproj": {}
+    "C:\\Users\\Aya\\Source\\Repos\\VVS-zadaca3\\Studentski Dom\\Studentski Dom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aya\\Downloads\\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-Grupa1\\Grupa 1\\Studentski Dom\\Studentski Dom\\Studentski Dom.csproj": {
+    "C:\\Users\\Aya\\Source\\Repos\\VVS-zadaca3\\Studentski Dom\\Studentski Dom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aya\\Downloads\\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-Grupa1\\Grupa 1\\Studentski Dom\\Studentski Dom\\Studentski Dom.csproj",
+        "projectUniqueName": "C:\\Users\\Aya\\Source\\Repos\\VVS-zadaca3\\Studentski Dom\\Studentski Dom.csproj",
         "projectName": "Studentski Dom",
-        "projectPath": "C:\\Users\\Aya\\Downloads\\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-Grupa1\\Grupa 1\\Studentski Dom\\Studentski Dom\\Studentski Dom.csproj",
+        "projectPath": "C:\\Users\\Aya\\Source\\Repos\\VVS-zadaca3\\Studentski Dom\\Studentski Dom.csproj",
         "packagesPath": "C:\\Users\\Aya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aya\\Downloads\\VerifikacijaIValidacijaSoftvera-Vjezbe-z3-Grupa1\\Grupa 1\\Studentski Dom\\Studentski Dom\\obj\\",
+        "outputPath": "C:\\Users\\Aya\\Source\\Repos\\VVS-zadaca3\\Studentski Dom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aya\\AppData\\Roaming\\NuGet\\NuGet.Config",
